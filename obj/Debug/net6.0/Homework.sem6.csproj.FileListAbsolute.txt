@@ -1,0 +1,15 @@
+C:\Users\AREK\Desktop\gid education\Homework.sem6\bin\Debug\net6.0\Homework.sem6.exe
+C:\Users\AREK\Desktop\gid education\Homework.sem6\bin\Debug\net6.0\Homework.sem6.deps.json
+C:\Users\AREK\Desktop\gid education\Homework.sem6\bin\Debug\net6.0\Homework.sem6.runtimeconfig.json
+C:\Users\AREK\Desktop\gid education\Homework.sem6\bin\Debug\net6.0\Homework.sem6.dll
+C:\Users\AREK\Desktop\gid education\Homework.sem6\bin\Debug\net6.0\Homework.sem6.pdb
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\Homework.sem6.csproj.AssemblyReference.cache
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\Homework.sem6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\Homework.sem6.AssemblyInfoInputs.cache
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\Homework.sem6.AssemblyInfo.cs
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\Homework.sem6.csproj.CoreCompileInputs.cache
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\Homework.sem6.dll
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\refint\Homework.sem6.dll
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\Homework.sem6.pdb
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\Homework.sem6.genruntimeconfig.cache
+C:\Users\AREK\Desktop\gid education\Homework.sem6\obj\Debug\net6.0\ref\Homework.sem6.dll
